@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arkan-Dev
+- 👋 Hi, I’m Sameh
 - 👀 I’m interested in Programming and Software Engineering 
 
 ## Currently a Software Engineer and still learning more. Freelancing in Discord Bot Developement 
