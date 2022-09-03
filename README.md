@@ -23,4 +23,5 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samehel&" alt="samehel" /></p>
 <br>
-![snake gif](https://github.com/samehel/samehel/blob/output/github-contribution-grid-snake.gif)
+
+![](https://github.com/samehel/samehel/blob/output/github-contribution-grid-snake.gif)
