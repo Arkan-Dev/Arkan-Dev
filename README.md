@@ -1,46 +1,15 @@
 <div align="center">
-<h1 align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=<+👋+Hello,+World!+/>;+<+👋+Hola,+World!+/>;+<+👋+Namaste,+World!+/>;+<+👋+أهلا,+World!+/>;+<+👋+Nĭ+Hăo,+World!+/>;+<+👋+Bonjour,+World!+/>;+<+👋+Ciao,+World!+/>;&center=true&size=30">
   </a>
-</h1>
-</div>  
+
   
+<h2 align="center">👨‍💻 My Skill Set</h2>  
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,atom,bash,c,cs,cpp,cloudflare,css,dart,discord,bots,dotnet,eclipse,firebase,flutter,git,github,heroku,html,idea,java,js,kotlin,linux,md,mongodb,mysql,nodejs,php,powershell,processing,py,react,sqlite,stackoverflow,selenium,unity,visualstudio,vscode">
+</p>
 
-<br/>  
-
-
-## 👨‍💻 My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-  
-</div>
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## 🔌 Connect with me  
@@ -84,3 +53,4 @@
     />
 </a>
 <br />
+</div>  
