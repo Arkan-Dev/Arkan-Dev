@@ -22,4 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samehel&show_icons=true&locale=en" alt="samehel" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samehel&" alt="samehel" /></p>
-
+<br>
+![snake gif](https://github.com/samehel/samehel/blob/output/github-contribution-grid-snake.gif)
