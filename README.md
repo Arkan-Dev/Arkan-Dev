@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;+I'm+Sameh!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=<+👋+Hello,+World!+/>;+<+👋+Hola,+World!+/>;+<+👋+Namaste,+World!+/>;+<+👋+أهلا,+World!+/>;+<+👋+Nĭ+Hăo,+World!+/>;+<+👋+Bonjour,+World!+/>;+<+👋+Ciao,+World!+/>;&center=true&size=30">
   </a>
 </h1>
 </div>  
@@ -10,7 +10,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 👨‍💻 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -43,7 +43,7 @@
 <br/>  
 
 
-## Connect with me  
+## 🔌 Connect with me  
 <div align="center">
 <a href="https://github.com/samehel" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -69,8 +69,9 @@
 <br/>  
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-<br/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="animated" />
+</p><br/>
 
 ---
 <br/>
