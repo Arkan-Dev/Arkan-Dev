@@ -30,25 +30,25 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samehel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=samehel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=samehel&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=samehel&theme=ayu-mirage&hide_border=false)<br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samehel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="animated" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samehel&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="animated" />
 </p>
 <br/>  
 
-## ✍️ Random Dev Quote
+## ✍️ A Great quote from a great dev
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="animated" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="animated" />
 </p><br/>
 
 ---
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=samehel&icon=2&color=2)](https://visitcount.itsvg.in)<br/>
+[![](https://visitcount.itsvg.in/api?id=samehel&icon=3&color=6)](https://visitcount.itsvg.in)<br/>
 <a href="https://paypal.me/SamehOfficial" target="_blank" style="display: inline-block;">
     <img
-        src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+        src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" 
         align="center"
     />
 </a>
