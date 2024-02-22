@@ -7,7 +7,7 @@
   
 <h2 align="center">👨‍💻 My Skill Set & Tools</h2>  
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,atom,bash,c,cs,cpp,cloudflare,css,dart,discord,bots,dotnet,eclipse,firebase,flutter,git,github,heroku,html,idea,java,js,kotlin,linux,md,mongodb,mysql,nodejs,php,laravel,powershell,processing,py,react,sqlite,stackoverflow,selenium,unity,visualstudio,vscode">
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,atom,bash,c,cs,cpp,cloudflare,css,dart,discord,bots,dotnet,eclipse,firebase,flutter,git,github,heroku,html,idea,java,js,linux,md,mongodb,mysql,nodejs,php,laravel,powershell,processing,py,react,sqlite,stackoverflow,selenium,unity,visualstudio,vscode">
 </p>
 
 
